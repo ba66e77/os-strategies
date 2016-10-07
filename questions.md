@@ -1,24 +1,27 @@
-Strategies for Determining an Open Sourcing Policy
+# Questions to ask in determining an OS strategy
 
-Janessa Worrell and Barrett Smith - Acquia
+## Authors
+* Janessa Worrell
+* Barrett Smith
 
 
 
-    Questions
 
-When
+## Questions
+
+### When
 
     ..to determine OS policy?
 
     ..do we release?
 
 
-Why
+### Why
 
     ..are we open sourcing?
 
 
-What
+### What
 
     ..is the process we need to follow for releasing code?
 
@@ -33,19 +36,19 @@ What
     ..license will we release under?
 
 
-How
+### How
 
     ..to sell open sourcing to the client?
 
     ..much of an investment are we willing to make in this code after releasing it?
 
 
-Where
+### Where
 
     ..are we releasing it?
 
 
-Who
+### Who
 
     ..."owns" the code and controls it post-release?
 
