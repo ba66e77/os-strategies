@@ -29,6 +29,8 @@ What
     ..code can we not release for security or other reasons?
 
     How are we going to ensure that code is not part of anything we release?
+    
+    ..license will we release under?
 
 
 How
